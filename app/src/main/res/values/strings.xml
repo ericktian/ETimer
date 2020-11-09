@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ETimer</string>
+    <string name="timer">0.000</string>
+    <string name="reset">Reset</string>
+    <string name="sense">Sensitivity: 5</string>
+    <string name="scramble">scramble function is not working</string>
+
+    <string name="avg5">Average of 5: N/A</string>
+    <string name="time1">N/A</string>
+    <string name="time2">N/A</string>
+    <string name="time3">N/A</string>
+    <string name="time4">N/A</string>
+    <string name="time5">N/A</string>
+
+    <string name="info">Scramble: \n\nTime:</string>
+    <string name="back">Back</string>
+</resources>
